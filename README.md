@@ -1,3 +1,10 @@
+Alzheimer’s Disease Detection Using MRI Scans
+• Developed a deep learning-based medical imaging model for Alzheimer’s disease classification using MRI scans.
+• Applied convolutional neural network concepts for feature extraction and image classification.
+• Focused on improving diagnostic assistance through AI-driven healthcare analysis.
+
+
+
 Alzheimer's Disease Detection Using MRI Scans
 Overview : This project focuses on the automated detection and classification of Alzheimer's Disease using MRI brain scan images and Deep Learning techniques. The system leverages Convolutional Neural Networks (CNNs) to analyze MRI scans and identify patterns associated with different stages of Alzheimer's disease, assisting in early diagnosis and clinical decision-making.
 Problem Statement : Alzheimer's Disease is a progressive neurological disorder that affects memory, thinking, and behavior. Early detection is crucial for effective treatment planning and patient care. Manual analysis of MRI scans can be time-consuming and requires expert radiologists. This project aims to support healthcare professionals by providing an AI-powered diagnostic assistance system.
